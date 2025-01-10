@@ -1,0 +1,47 @@
+h1 {
+
+	text-align: center;
+	font-family: Copperplate;
+	color: goldenrod;
+}
+h2 {
+	text-align: center;
+	font-family: Copperplate;
+	color: goldenrod;
+	size: 2px;
+}
+.topnav ul{
+	list-style-type: none;
+	background-color: beige;
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+}
+.topnav a{
+	color: darkgoldenrod;
+	text-decoration: none;
+	padding: 16px 18px;
+	display: block;
+	text-align: block;
+	font-size: 20 px;
+	font-family: Copperplate;
+
+}
+.topnav a:hover{
+	background-color: darkgoldenrod;
+	color: maroon;
+}
+.topnav li{
+	float: left;
+}
+body{ background-color: maroon; }
+textarea {
+	text-align: center;
+}
+div {
+	margin-top:12px;
+	margin-bottom:12px;
+	margin-right:auto;
+	margin-left:auto;
+}
+.input-group .mb-3
